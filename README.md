@@ -2,8 +2,8 @@
 
 This application is a slightly more advanced version of the basic node.js
 starter application provided by the IBM Cloud platform. It uses the express
-package to serve a web form from the /public directory. When the user clicks
-Submit on that page, app.js takes the data from the form and inserts it into
+package to serve a web form from the `/public` directory. When the user clicks
+`Submit` on that page, `app.js` takes the data from the form and inserts it into
 a Cloudant database hosted in the IBM Cloud.
 
 ## Running this app
